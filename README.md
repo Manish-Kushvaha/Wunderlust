@@ -37,7 +37,7 @@
 
 ## 🔗 Project Links
 
-- **GitHub Repository:** (https://github.com/Manish-Kushvaha/Wunderlust)  
+- **GitHub Repository:** (https://github.com/Manish-Kushvaha/StayEase)  
 - **Live Project:** (https://full-stack-project-4.onrender.com/signup)  
 
 ---
