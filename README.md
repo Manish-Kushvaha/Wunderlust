@@ -1,4 +1,4 @@
-# 🏡 StayEase – Rental Marketplace for Short-Term Lodging(Wunderlust)
+# 🏡 StayEase – Rental Marketplace for Short-Term Lodging
 
 **StayEase** is a full-featured rental booking platform inspired by Airbnb, designed for short-term property rentals. The project focuses on **secure listing management**, **user authentication**, and a **responsive user experience**.
 
